@@ -1,0 +1,44 @@
+[
+{
+"id": "772",
+"name": "Sam & Max Hit the Road",
+"path": "h/772.html",
+"base": "a/bubbls_dosbox_/",
+"thumb": "c/772.png"
+},
+{
+"id": "779",
+"name": "I Have No Mouth, and I Must Scream",
+"path": "h/779.html",
+"base": "a/bubbls_dosbox_/",
+"thumb": "c/779.png"
+},
+{
+"id": "465-fix",
+"name": "Cuphead",
+"path": "h/465-fix.html",
+"base": "a/web_ports_cuphead_/",
+"thumb": "c/465-fix.png"
+},
+{
+"id": "792-ff",
+"name": "Escape Road 3",
+"path": "h/792-ff.html",
+"base": "a/bubblfan_escape_road_3_/",
+"thumb": "c/792-ff.png"
+},
+{
+"id": "lglg-knifehit",
+"name": "Knife Hit",
+"path": "h/lglg-knifehit.html",
+"base": "a/lg_knifehit/",
+"thumb": ""
+},
+{
+"id": "lglg-fishing-the-sea",
+"name": "Fishing The Sea",
+"path": "h/lglg-fishing-the-sea.html",
+"base": "a/lg_fishing_the_sea/",
+"thumb": ""
+}
+]
